@@ -1,0 +1,59 @@
+{
+ "A": 28.0,
+ "N": 10000,
+ "alpha": 0.27,
+ "coda_rates": [
+  0.4,
+  0.2
+ ],
+ "dur": 0,
+ "edge": 0.25,
+ "f0": 110.0,
+ "fade_in": 3.0,
+ "fade_out": 8.0,
+ "gap": 0.5,
+ "knee": 1.6,
+ "max_gain": 4.0,
+ "nu0": 20.0,
+ "partials": [
+  [
+   1,
+   1.0,
+   0.35
+  ],
+  [
+   2,
+   0.4,
+   0.65
+  ],
+  [
+   3,
+   0.12,
+   0.5
+  ]
+ ],
+ "procs": 8,
+ "r": 0.6,
+ "ramp": 3.0,
+ "reach": 1.0,
+ "ref_pct": 99.7,
+ "t0": 6.0,
+ "tail": 5.0,
+ "tick_amp": 0.07,
+ "tick_decay": 0.06,
+ "tick_f": 880.0,
+ "tick_len": 0.3,
+ "tick_pan": 0.5,
+ "tick_rate_max": 30.0,
+ "tilt": 0.5,
+ "x0": 1.8,
+ "x1_max": 2400,
+ "x1_min": 12,
+ "zsr": 4000,
+ "lp_hz": 3200,
+ "roll_hz": 1600,
+ "lev_win": 6.0,
+ "lev_max_db": 10,
+ "lev_amt": 0.9,
+ "drive": 2.0
+}
